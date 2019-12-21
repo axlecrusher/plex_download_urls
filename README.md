@@ -7,3 +7,5 @@ Linux
 https://downloads.plex.tv/plex-media-server-new/1.18.3.2156-349e9837e/debian/plexmediaserver_1.18.3.2156-349e9837e_amd64.deb
 
 https://downloads.plex.tv/plex-media-server-new/1.17.0.1709-982421575/debian/plexmediaserver_1.17.0.1709-982421575_amd64.deb
+
+https://downloads.plex.tv/plex-media-server-new/1.15.8.1198-eadbcbb45/debian/plexmediaserver_1.15.8.1198-eadbcbb45_amd64.deb
