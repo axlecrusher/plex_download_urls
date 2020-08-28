@@ -15,7 +15,28 @@ echo "Grab Version"
 # Mac
 # FreeBSD
 
-curl -s https://plex.tv/api/downloads/5.json > /tmp/dump.json
+JSONTMP=/tmp/5.json
+JSONFILE=./json/5.json
+#echo $JSONFILE
+
+#url for media server builds
+CURL_RETURN_CODE=0
+CURL_OUTPUT=`curl -w httpcode=%{http_code} -s https://plex.tv/api/downloads/5.json --output $JSONTMP 2> /dev/null` || CURL_RETURN_CODE=$?
+
+if [ ${CURL_RETURN_CODE} -ne 0 ]; then  
+    echo "Curl connection failed with return code - ${CURL_RETURN_CODE}"
+    exit
+else
+    echo "Curl connection success"
+    # Check http code for curl operation/response in  CURL_OUTPUT
+    httpCode=$(echo "${CURL_OUTPUT}" | sed -e 's/.*\httpcode=//')
+
+    if [ ${httpCode} -ne 200 ]; then
+        echo "Curl operation/command failed due to server return code - ${httpCode}"
+        exit
+    fi
+fi
+
 
 LST=( 
 	linux-x86_64.debian 
@@ -28,7 +49,13 @@ LST=(
 	darwin-x86_64.macos
 	freebsd-x86_64.freebsd )
 
-VERSION=$(cat /tmp/dump.json|jq -r '.computer.Linux|.version')
+VERSION=$(cat $JSONTMP|jq -r '.computer.Linux|.version')
+
+if [ $? != 0 ] 
+then
+ echo "[3;31mError parsing json[0m"
+ exit
+fi
 
 grep $VERSION README.md >/dev/null
 if [ $? == 0 ] 
@@ -46,10 +73,11 @@ IFS="."
 read build distrib <<< "$a"
 
 echo "Search $build for $distrib"
-URL=$(cat /tmp/dump.json|jq --arg BUILD "$build" --arg DISTRO "$distrib"  -r '.computer[]|.releases[]|select(.build==$BUILD and .distro==$DISTRO)|.url')
+URL=$(cat $JSONTMP|jq --arg BUILD "$build" --arg DISTRO "$distrib"  -r '.computer[]|.releases[]|select(.build==$BUILD and .distro==$DISTRO)|.url')
 
 sed -i "/# $a/a \\\n$URL"  README.md
 
 done
 
-rm /tmp/dump.json
+mv $JSONTMP $JSONFILE
+#rm $JSONFILE
