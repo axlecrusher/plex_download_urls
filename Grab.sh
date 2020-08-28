@@ -57,13 +57,14 @@ then
  exit
 fi
 
+mv $JSONTMP $JSONFILE
+
 grep $VERSION README.md >/dev/null
 if [ $? == 0 ] 
 then
  echo "[3;31mAlready in Readme[0m"
  exit
 fi
-
 
 echo "[1;33mAdding $VERSION[0m"
 
@@ -79,5 +80,4 @@ sed -i "/# $a/a \\\n$URL"  README.md
 
 done
 
-mv $JSONTMP $JSONFILE
 #rm $JSONFILE
