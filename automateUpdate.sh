@@ -7,4 +7,4 @@ git pull
 
 ./Grab.sh
 git commit -a -m "Link updates for $now"
-#git push
+git push
