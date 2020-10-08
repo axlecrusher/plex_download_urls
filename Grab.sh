@@ -15,7 +15,7 @@ echo "Grab Version"
 # Mac
 # FreeBSD
 
-JSONTMP=/tmp/5.json
+JSONTMP="/tmp/5.json"
 JSONFILE=./json/5.json
 #echo $JSONFILE
 
