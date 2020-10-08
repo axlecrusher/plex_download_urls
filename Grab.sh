@@ -15,7 +15,7 @@ echo "Grab Version"
 # Mac
 # FreeBSD
 
-JSONTMP="/tmp/5.json"
+JSONTMP=/tmp/5.json
 JSONFILE=./json/5.json
 #echo $JSONFILE
 
@@ -50,6 +50,7 @@ LST=(
 	freebsd-x86_64.freebsd )
 
 VERSION=$(cat $JSONTMP|jq -r '.computer.Linux|.version')
+echo "checkmark 1"
 
 if [ $? != 0 ] 
 then
