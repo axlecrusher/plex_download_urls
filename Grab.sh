@@ -75,7 +75,7 @@ IFS="."
 read build distrib <<< "$a"
 
 echo "Search $build for $distrib"
-URL=$(cat $JSONTMP|jq --arg BUILD "$build" --arg DISTRO "$distrib"  -r '.computer[]|.releases[]|select(.build==$BUILD and .distro==$DISTRO)|.url')
+URL=$(cat "$JSONTMP"|jq --arg BUILD "$build" --arg DISTRO "$distrib"  -r '.computer[]|.releases[]|select(.build==$BUILD and .distro==$DISTRO)|.url')
 
 sed -i "/# $a/a \\\n$URL"  README.md
 
