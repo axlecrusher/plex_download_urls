@@ -57,7 +57,7 @@ then
  exit
 fi
 
-mv $JSONTMP $JSONFILE
+cp $JSONTMP $JSONFILE
 
 grep $VERSION README.md >/dev/null
 if [ $? == 0 ] 
