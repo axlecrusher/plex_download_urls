@@ -4,6 +4,8 @@ plex.tv does not provide URLs for old installers. This repository serves as an a
 
 # linux-x86_64.debian
 
+https://downloads.plex.tv/plex-media-server-new/1.22.3.4523-d0ce30438/debian/plexmediaserver_1.22.3.4523-d0ce30438_amd64.deb
+
 https://downloads.plex.tv/plex-media-server-new/1.22.3.4392-d7c624def/debian/plexmediaserver_1.22.3.4392-d7c624def_amd64.deb
 
 https://downloads.plex.tv/plex-media-server-new/1.22.2.4282-a97b03fad/debian/plexmediaserver_1.22.2.4282-a97b03fad_amd64.deb
@@ -104,6 +106,8 @@ https://downloads.plex.tv/plex-media-server/1.14.1.5488-cc260c476/plexmediaserve
 
 # linux-x86.debian
 
+https://downloads.plex.tv/plex-media-server-new/1.22.3.4523-d0ce30438/debian/plexmediaserver_1.22.3.4523-d0ce30438_i386.deb
+
 https://downloads.plex.tv/plex-media-server-new/1.22.3.4392-d7c624def/debian/plexmediaserver_1.22.3.4392-d7c624def_i386.deb
 
 https://downloads.plex.tv/plex-media-server-new/1.22.2.4282-a97b03fad/debian/plexmediaserver_1.22.2.4282-a97b03fad_i386.deb
@@ -197,6 +201,8 @@ https://downloads.plex.tv/plex-media-server-new/1.17.0.1709-982421575/debian/ple
 https://downloads.plex.tv/plex-media-server-new/1.15.8.1198-eadbcbb45/debian/plexmediaserver_1.15.8.1198-eadbcbb45_i386.deb
 
 # linux-aarch64.debian
+
+https://downloads.plex.tv/plex-media-server-new/1.22.3.4523-d0ce30438/debian/plexmediaserver_1.22.3.4523-d0ce30438_arm64.deb
 
 https://downloads.plex.tv/plex-media-server-new/1.22.3.4392-d7c624def/debian/plexmediaserver_1.22.3.4392-d7c624def_arm64.deb
 
@@ -292,6 +298,8 @@ https://downloads.plex.tv/plex-media-server-new/1.15.8.1198-eadbcbb45/debian/ple
 
 # linux-armv7hf_neon.debian
 
+https://downloads.plex.tv/plex-media-server-new/1.22.3.4523-d0ce30438/debian/plexmediaserver_1.22.3.4523-d0ce30438_armhf.deb
+
 https://downloads.plex.tv/plex-media-server-new/1.22.3.4392-d7c624def/debian/plexmediaserver_1.22.3.4392-d7c624def_armhf.deb
 
 https://downloads.plex.tv/plex-media-server-new/1.22.2.4282-a97b03fad/debian/plexmediaserver_1.22.2.4282-a97b03fad_armhf.deb
@@ -385,6 +393,8 @@ https://downloads.plex.tv/plex-media-server-new/1.17.0.1709-982421575/debian/ple
 https://downloads.plex.tv/plex-media-server-new/1.15.8.1198-eadbcbb45/debian/plexmediaserver_1.15.8.1198-eadbcbb45_armhf.deb
 
 # linux-x86.redhat
+
+https://downloads.plex.tv/plex-media-server-new/1.22.3.4523-d0ce30438/redhat/plexmediaserver-1.22.3.4523-d0ce30438.i686.rpm
 
 https://downloads.plex.tv/plex-media-server-new/1.22.3.4392-d7c624def/redhat/plexmediaserver-1.22.3.4392-d7c624def.i686.rpm
 
@@ -480,6 +490,8 @@ https://downloads.plex.tv/plex-media-server-new/1.15.8.1198-eadbcbb45/redhat/ple
 
 # linux-x86_64.redhat
 
+https://downloads.plex.tv/plex-media-server-new/1.22.3.4523-d0ce30438/redhat/plexmediaserver-1.22.3.4523-d0ce30438.x86_64.rpm
+
 https://downloads.plex.tv/plex-media-server-new/1.22.3.4392-d7c624def/redhat/plexmediaserver-1.22.3.4392-d7c624def.x86_64.rpm
 
 https://downloads.plex.tv/plex-media-server-new/1.22.2.4282-a97b03fad/redhat/plexmediaserver-1.22.2.4282-a97b03fad.x86_64.rpm
@@ -573,6 +585,8 @@ https://downloads.plex.tv/plex-media-server-new/1.17.0.1709-982421575/redhat/ple
 https://downloads.plex.tv/plex-media-server-new/1.15.8.1198-eadbcbb45/redhat/plexmediaserver-1.15.8.1198-eadbcbb45.x86_64.rpm
 
 # windows-x86.windows
+
+https://downloads.plex.tv/plex-media-server-new/1.22.3.4523-d0ce30438/windows/PlexMediaServer-1.22.3.4523-d0ce30438-x86.exe
 
 https://downloads.plex.tv/plex-media-server-new/1.22.3.4392-d7c624def/windows/PlexMediaServer-1.22.3.4392-d7c624def-x86.exe
 
@@ -714,6 +728,8 @@ https://downloads.plex.tv/plex-media-server-new/1.15.1.710-ece95b3a1/windows/Ple
 
 # darwin-x86_64.macos
 
+https://downloads.plex.tv/plex-media-server-new/1.22.3.4523-d0ce30438/macos/PlexMediaServer-1.22.3.4523-d0ce30438-x86_64.zip
+
 https://downloads.plex.tv/plex-media-server-new/1.22.3.4392-d7c624def/macos/PlexMediaServer-1.22.3.4392-d7c624def-x86_64.zip
 
 https://downloads.plex.tv/plex-media-server-new/1.22.2.4282-a97b03fad/macos/PlexMediaServer-1.22.2.4282-a97b03fad-x86_64.zip
@@ -805,6 +821,8 @@ https://downloads.plex.tv/plex-media-server-new/1.17.0.1841-d42cfa161/macos/Plex
 https://downloads.plex.tv/plex-media-server-new/1.17.0.1709-982421575/macos/PlexMediaServer-1.17.0.1709-982421575-x86_64.zip
 
 # freebsd-x86_64.freebsd
+
+https://downloads.plex.tv/plex-media-server-new/1.22.3.4523-d0ce30438/freebsd/PlexMediaServer-1.22.3.4523-d0ce30438-FreeBSD-amd64.tar.bz2
 
 https://downloads.plex.tv/plex-media-server-new/1.22.3.4392-d7c624def/freebsd/PlexMediaServer-1.22.3.4392-d7c624def-FreeBSD-amd64.tar.bz2
 
