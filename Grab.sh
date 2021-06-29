@@ -42,7 +42,7 @@ LST=(
 	linux-x86_64.debian 
 	linux-x86.debian 
 	linux-aarch64.debian
-	linux-armv7hf_neon.debian 
+	linux-armv7neon.debian 
 	linux-x86.redhat 
 	linux-x86_64.redhat 
 	windows-x86.windows 
