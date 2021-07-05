@@ -326,17 +326,17 @@ https://downloads.plex.tv/plex-media-server-new/1.17.0.1709-982421575/debian/ple
 
 https://downloads.plex.tv/plex-media-server-new/1.15.8.1198-eadbcbb45/debian/plexmediaserver_1.15.8.1198-eadbcbb45_arm64.deb
 
-# linux-armv7hf_neon.debian
+# linux-armv7neon.debian
 
+https://downloads.plex.tv/plex-media-server-new/1.23.3.4707-ebb5fe9f3/debian/plexmediaserver_1.23.3.4707-ebb5fe9f3_armhf.deb
 
+https://downloads.plex.tv/plex-media-server-new/1.23.2.4656-85f0adf5b/debian/plexmediaserver_1.23.2.4656-85f0adf5b_armhf.deb
 
+https://downloads.plex.tv/plex-media-server-new/1.23.2.4625-a83d2d0f9/debian/plexmediaserver_1.23.2.4625-a83d2d0f9_armhf.deb
 
+https://downloads.plex.tv/plex-media-server-new/1.23.1.4602-280ab6053/debian/plexmediaserver_1.23.1.4602-280ab6053_armhf.deb
 
-https://downloads.plex.tv/plex-media-server-new/1.22.3.4523-d0ce30438/debian/plexmediaserver_1.22.3.4523-d0ce30438_armhf.deb
-
-https://downloads.plex.tv/plex-media-server-new/1.22.3.4523-d0ce30438/debian/plexmediaserver_1.22.3.4523-d0ce30438_armhf.deb
-
-https://downloads.plex.tv/plex-media-server-new/1.22.3.4523-d0ce30438/debian/plexmediaserver_1.22.3.4523-d0ce30438_armhf.deb
+https://downloads.plex.tv/plex-media-server-new/1.23.1.4571-6119e8eed/debian/plexmediaserver_1.23.1.4571-6119e8eed_armhf.deb
 
 https://downloads.plex.tv/plex-media-server-new/1.22.3.4523-d0ce30438/debian/plexmediaserver_1.22.3.4523-d0ce30438_armhf.deb
 
