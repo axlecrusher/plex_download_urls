@@ -19,6 +19,8 @@ JSONTMP=/tmp/5.json
 JSONFILE=./json/5.json
 #echo $JSONFILE
 
+echo "curl -w httpcode=%{http_code} -s https://plex.tv/api/downloads/5.json --output $JSONTMP 2> /dev/null"
+
 #url for media server builds
 CURL_RETURN_CODE=0
 CURL_OUTPUT=`curl -w httpcode=%{http_code} -s https://plex.tv/api/downloads/5.json --output $JSONTMP 2> /dev/null` || CURL_RETURN_CODE=$?
