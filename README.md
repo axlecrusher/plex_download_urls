@@ -1466,4 +1466,11 @@ https://downloads.plex.tv/plex-media-server-new/1.18.5.2309-f5213a238/freebsd/Pl
 
 https://downloads.plex.tv/plex-media-server-new/1.18.4.2171-ac2afe5f8/freebsd/PlexMediaServer-1.18.4.2171-ac2afe5f8-FreeBSD-amd64.tar.bz2
 
+# linux-x86_64.qnap
+
+# linux-aarch64.qnap
+
+# linux-armv7hf.qnap
+
+# linux-armv7neon.qnap
 

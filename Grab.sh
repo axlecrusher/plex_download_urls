@@ -49,7 +49,12 @@ LST=(
 	linux-x86_64.redhat 
 	windows-x86.windows 
 	darwin-x86_64.macos
-	freebsd-x86_64.freebsd )
+	freebsd-x86_64.freebsd
+	linux-x86_64.qnap
+	linux-aarch64.qnap
+	linux-armv7hf.qnap
+	linux-armv7neon.qnap
+)
 
 VERSION=$(cat $JSONTMP|jq -r '.computer.Linux|.version')
 echo "checkmark 1"
