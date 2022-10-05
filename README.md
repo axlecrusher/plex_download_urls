@@ -1450,17 +1450,9 @@ https://downloads.plex.tv/plex-media-server-new/1.18.4.2171-ac2afe5f8/freebsd/Pl
 
 # linux-x86_64.qnap
 
-
-
 # linux-aarch64.qnap
-
-
 
 # linux-armv7hf.qnap
 
-
-
 # linux-armv7neon.qnap
-
-
 

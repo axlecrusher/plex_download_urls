@@ -41,15 +41,17 @@ fi
 
 
 LST=( 
-	linux-x86_64.debian 
-	linux-x86.debian 
+	linux-x86_64.debian
+	linux-x86.debian
 	linux-aarch64.debian
-	linux-armv7neon.debian 
-	linux-x86.redhat 
-	linux-x86_64.redhat 
-	windows-x86.windows 
+	linux-armv7neon.debian
+	linux-x86.redhat
+	linux-x86_64.redhat
+	windows-x86.windows
 	darwin-x86_64.macos
-	freebsd-x86_64.freebsd
+	freebsd-x86_64.freebsd )
+
+NAS=( 
 	linux-x86_64.qnap
 	linux-aarch64.qnap
 	linux-armv7hf.qnap
@@ -76,6 +78,8 @@ fi
 
 echo "[1;33mAdding $VERSION[0m"
 
+old_ifs="$IFS"
+
 for a in ${LST[@]}
 do
 IFS="."
@@ -83,6 +87,21 @@ read build distrib <<< "$a"
 
 echo "Search $build for $distrib"
 URL=$(cat "$JSONTMP"|jq --arg BUILD "$build" --arg DISTRO "$distrib"  -r '.computer[]|.releases[]|select(.build==$BUILD and .distro==$DISTRO)|.url')
+
+sed -i "/# $a/a \\\n$URL"  README.md
+
+done
+
+# reset IFS for loop
+IFS="$old_ifs"
+
+for a in ${NAS[@]}
+do
+IFS="."
+read build distrib <<< "$a"
+
+echo "Search $build for $distrib"
+URL=$(cat "$JSONTMP"|jq --arg BUILD "$build" --arg DISTRO "$distrib"  -r '.nas[]|.releases[]|select(.build==$BUILD and .distro==$DISTRO)|.url')
 
 sed -i "/# $a/a \\\n$URL"  README.md
 
