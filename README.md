@@ -4,6 +4,8 @@ plex.tv does not provide URLs for old installers. This repository serves as an a
 
 # linux-x86_64.debian
 
+https://downloads.plex.tv/plex-media-server-new/1.29.0.6244-819d3678c/debian/plexmediaserver_1.29.0.6244-819d3678c_amd64.deb
+
 https://downloads.plex.tv/plex-media-server-new/1.28.0.5999-97678ded3/debian/plexmediaserver_1.28.0.5999-97678ded3_amd64.deb
 
 https://downloads.plex.tv/plex-media-server-new/1.27.2.5929-a806c5905/debian/plexmediaserver_1.27.2.5929-a806c5905_amd64.deb
@@ -166,6 +168,8 @@ https://downloads.plex.tv/plex-media-server/1.14.1.5488-cc260c476/plexmediaserve
 
 # linux-x86.debian
 
+https://downloads.plex.tv/plex-media-server-new/1.29.0.6244-819d3678c/debian/plexmediaserver_1.29.0.6244-819d3678c_i386.deb
+
 https://downloads.plex.tv/plex-media-server-new/1.28.0.5999-97678ded3/debian/plexmediaserver_1.28.0.5999-97678ded3_i386.deb
 
 https://downloads.plex.tv/plex-media-server-new/1.27.2.5929-a806c5905/debian/plexmediaserver_1.27.2.5929-a806c5905_i386.deb
@@ -321,6 +325,8 @@ https://downloads.plex.tv/plex-media-server-new/1.17.0.1709-982421575/debian/ple
 https://downloads.plex.tv/plex-media-server-new/1.15.8.1198-eadbcbb45/debian/plexmediaserver_1.15.8.1198-eadbcbb45_i386.deb
 
 # linux-aarch64.debian
+
+https://downloads.plex.tv/plex-media-server-new/1.29.0.6244-819d3678c/debian/plexmediaserver_1.29.0.6244-819d3678c_arm64.deb
 
 https://downloads.plex.tv/plex-media-server-new/1.28.0.5999-97678ded3/debian/plexmediaserver_1.28.0.5999-97678ded3_arm64.deb
 
@@ -478,6 +484,8 @@ https://downloads.plex.tv/plex-media-server-new/1.15.8.1198-eadbcbb45/debian/ple
 
 # linux-armv7neon.debian
 
+https://downloads.plex.tv/plex-media-server-new/1.29.0.6244-819d3678c/debian/plexmediaserver_1.29.0.6244-819d3678c_armhf.deb
+
 https://downloads.plex.tv/plex-media-server-new/1.28.0.5999-97678ded3/debian/plexmediaserver_1.28.0.5999-97678ded3_armhf.deb
 
 https://downloads.plex.tv/plex-media-server-new/1.27.2.5929-a806c5905/debian/plexmediaserver_1.27.2.5929-a806c5905_armhf.deb
@@ -633,6 +641,8 @@ https://downloads.plex.tv/plex-media-server-new/1.17.0.1709-982421575/debian/ple
 https://downloads.plex.tv/plex-media-server-new/1.15.8.1198-eadbcbb45/debian/plexmediaserver_1.15.8.1198-eadbcbb45_armhf.deb
 
 # linux-x86.redhat
+
+https://downloads.plex.tv/plex-media-server-new/1.29.0.6244-819d3678c/redhat/plexmediaserver-1.29.0.6244-819d3678c.i686.rpm
 
 https://downloads.plex.tv/plex-media-server-new/1.28.0.5999-97678ded3/redhat/plexmediaserver-1.28.0.5999-97678ded3.i686.rpm
 
@@ -790,6 +800,8 @@ https://downloads.plex.tv/plex-media-server-new/1.15.8.1198-eadbcbb45/redhat/ple
 
 # linux-x86_64.redhat
 
+https://downloads.plex.tv/plex-media-server-new/1.29.0.6244-819d3678c/redhat/plexmediaserver-1.29.0.6244-819d3678c.x86_64.rpm
+
 https://downloads.plex.tv/plex-media-server-new/1.28.0.5999-97678ded3/redhat/plexmediaserver-1.28.0.5999-97678ded3.x86_64.rpm
 
 https://downloads.plex.tv/plex-media-server-new/1.27.2.5929-a806c5905/redhat/plexmediaserver-1.27.2.5929-a806c5905.x86_64.rpm
@@ -945,6 +957,8 @@ https://downloads.plex.tv/plex-media-server-new/1.17.0.1709-982421575/redhat/ple
 https://downloads.plex.tv/plex-media-server-new/1.15.8.1198-eadbcbb45/redhat/plexmediaserver-1.15.8.1198-eadbcbb45.x86_64.rpm
 
 # windows-x86.windows
+
+https://downloads.plex.tv/plex-media-server-new/1.29.0.6244-819d3678c/windows/PlexMediaServer-1.29.0.6244-819d3678c-x86.exe
 
 https://downloads.plex.tv/plex-media-server-new/1.28.0.5999-97678ded3/windows/PlexMediaServer-1.28.0.5999-97678ded3-x86.exe
 
@@ -1148,6 +1162,8 @@ https://downloads.plex.tv/plex-media-server-new/1.15.1.710-ece95b3a1/windows/Ple
 
 # darwin-x86_64.macos
 
+https://downloads.plex.tv/plex-media-server-new/1.29.0.6244-819d3678c/macos/PlexMediaServer-1.29.0.6244-819d3678c-universal.zip
+
 https://downloads.plex.tv/plex-media-server-new/1.28.0.5999-97678ded3/macos/PlexMediaServer-1.28.0.5999-97678ded3-universal.zip
 
 https://downloads.plex.tv/plex-media-server-new/1.27.2.5929-a806c5905/macos/PlexMediaServer-1.27.2.5929-a806c5905-x86_64.zip
@@ -1302,6 +1318,8 @@ https://downloads.plex.tv/plex-media-server-new/1.17.0.1709-982421575/macos/Plex
 
 # freebsd-x86_64.freebsd
 
+https://downloads.plex.tv/plex-media-server-new/1.29.0.6244-819d3678c/freebsd/PlexMediaServer-1.29.0.6244-819d3678c-FreeBSD-amd64.tar.bz2
+
 https://downloads.plex.tv/plex-media-server-new/1.28.0.5999-97678ded3/freebsd/PlexMediaServer-1.28.0.5999-97678ded3-FreeBSD-amd64.tar.bz2
 
 https://downloads.plex.tv/plex-media-server-new/1.27.2.5929-a806c5905/freebsd/PlexMediaServer-1.27.2.5929-a806c5905-FreeBSD-amd64.tar.bz2
@@ -1450,98 +1468,230 @@ https://downloads.plex.tv/plex-media-server-new/1.18.4.2171-ac2afe5f8/freebsd/Pl
 
 # linux-x86_64.qnap
 
+https://downloads.plex.tv/plex-media-server-new/1.29.0.6244-819d3678c/qnap/PlexMediaServer-1.29.0.6244-819d3678c-x86_64.qpkg
+
 # linux-aarch64.qnap
+
+https://downloads.plex.tv/plex-media-server-new/1.29.0.6244-819d3678c/qnap/PlexMediaServer-1.29.0.6244-819d3678c-aarch64.qpkg
 
 # linux-armv7hf.qnap
 
+https://downloads.plex.tv/plex-media-server-new/1.29.0.6244-819d3678c/qnap/PlexMediaServer-1.29.0.6244-819d3678c-armv7hf.qpkg
+
 # linux-armv7neon.qnap
+
+https://downloads.plex.tv/plex-media-server-new/1.29.0.6244-819d3678c/qnap/PlexMediaServer-1.29.0.6244-819d3678c-armv7neon.qpkg
 
 # linux-x86.synology
 
+https://downloads.plex.tv/plex-media-server-new/1.29.0.6244-819d3678c/synology/PlexMediaServer-1.29.0.6244-819d3678c-x86_DSM6.spk
+
 # linux-x86_64.synology
+
+https://downloads.plex.tv/plex-media-server-new/1.29.0.6244-819d3678c/synology/PlexMediaServer-1.29.0.6244-819d3678c-x86_64_DSM6.spk
 
 # linux-aarch64.synology
 
+https://downloads.plex.tv/plex-media-server-new/1.29.0.6244-819d3678c/synology/PlexMediaServer-1.29.0.6244-819d3678c-aarch64_DSM6.spk
+
 # linux-armv7hf.synology
+
+https://downloads.plex.tv/plex-media-server-new/1.29.0.6244-819d3678c/synology/PlexMediaServer-1.29.0.6244-819d3678c-armv7hf_DSM6.spk
 
 # linux-armv7neon.synology
 
+https://downloads.plex.tv/plex-media-server-new/1.29.0.6244-819d3678c/synology/PlexMediaServer-1.29.0.6244-819d3678c-armv7neon_DSM6.spk
+
 # linux-x86.synology-dsm7
+
+https://downloads.plex.tv/plex-media-server-new/1.29.0.6244-819d3678c/synology-dsm7/PlexMediaServer-1.29.0.6244-819d3678c-x86_DSM7.spk
+
+https://downloads.plex.tv/plex-media-server-new/1.29.0.6244-819d3678c/synology/PlexMediaServer-1.29.0.6244-819d3678c-x86_DSM6.spk
 
 # linux-x86_64.synology-dsm7
 
+https://downloads.plex.tv/plex-media-server-new/1.29.0.6244-819d3678c/synology-dsm7/PlexMediaServer-1.29.0.6244-819d3678c-x86_64_DSM7.spk
+
+https://downloads.plex.tv/plex-media-server-new/1.29.0.6244-819d3678c/synology/PlexMediaServer-1.29.0.6244-819d3678c-x86_64_DSM6.spk
+
 # linux-aarch64.synology-dsm7
+
+https://downloads.plex.tv/plex-media-server-new/1.29.0.6244-819d3678c/synology-dsm7/PlexMediaServer-1.29.0.6244-819d3678c-aarch64_DSM7.spk
+
+https://downloads.plex.tv/plex-media-server-new/1.29.0.6244-819d3678c/synology/PlexMediaServer-1.29.0.6244-819d3678c-aarch64_DSM6.spk
 
 # linux-armv7hf.synology-dsm7
 
+https://downloads.plex.tv/plex-media-server-new/1.29.0.6244-819d3678c/synology-dsm7/PlexMediaServer-1.29.0.6244-819d3678c-armv7hf_DSM7.spk
+
+https://downloads.plex.tv/plex-media-server-new/1.29.0.6244-819d3678c/synology/PlexMediaServer-1.29.0.6244-819d3678c-armv7hf_DSM6.spk
+
 # linux-armv7neon.synology-dsm7
+
+https://downloads.plex.tv/plex-media-server-new/1.29.0.6244-819d3678c/synology-dsm7/PlexMediaServer-1.29.0.6244-819d3678c-armv7neon_DSM7.spk
+
+https://downloads.plex.tv/plex-media-server-new/1.29.0.6244-819d3678c/synology/PlexMediaServer-1.29.0.6244-819d3678c-armv7neon_DSM6.spk
 
 # linux-x86_64.netgear
 
+https://downloads.plex.tv/plex-media-server-new/1.29.0.6244-819d3678c/netgear/plexmediaserver_1.29.0.6244-819d3678c_amd64.deb
+
 # linux-armv7hf.netgear
+
+https://downloads.plex.tv/plex-media-server-new/1.29.0.6244-819d3678c/netgear/plexmediaserver_1.29.0.6244-819d3678c_armel.deb
 
 # linux-armv7neon.netgear
 
+https://downloads.plex.tv/plex-media-server-new/1.29.0.6244-819d3678c/netgear/plexmediaserver-annapurna_1.29.0.6244-819d3678c_armel.deb
+
 # linux-x86_64.unraid
+
+https://downloads.plex.tv/plex-media-server-new/1.29.0.6244-819d3678c/unraid/PlexMediaServer-1.29.0.6244-819d3678c-x86_64.txz
 
 # linux-armv7hf.drobo
 
+https://downloads.plex.tv/plex-media-server-new/1.29.0.6244-819d3678c/drobo/plex.tgz
+
 # linux-x86.asustor
+
+https://downloads.plex.tv/plex-media-server-new/1.29.0.6244-819d3678c/asustor/PlexMediaServer-1.29.0.6244-819d3678c-x86.apk
 
 # linux-x86_64.asustor
 
+https://downloads.plex.tv/plex-media-server-new/1.29.0.6244-819d3678c/asustor/PlexMediaServer-1.29.0.6244-819d3678c-x86_64.apk
+
 # linux-aarch64.asustor
+
+https://downloads.plex.tv/plex-media-server-new/1.29.0.6244-819d3678c/asustor/PlexMediaServer-1.29.0.6244-819d3678c-aarch64.apk
 
 # linux-armv7neon.asustor
 
+https://downloads.plex.tv/plex-media-server-new/1.29.0.6244-819d3678c/asustor/PlexMediaServer-1.29.0.6244-819d3678c-armv7neon.apk
+
 # linux-x86_64.terramaster
+
+https://downloads.plex.tv/plex-media-server-new/1.29.0.6244-819d3678c/terramaster/PlexMediaServer-1.29.0.6244-819d3678c-x86_64.tpk
 
 # linux-aarch64.terramaster
 
+https://downloads.plex.tv/plex-media-server-new/1.29.0.6244-819d3678c/terramaster/PlexMediaServer-1.29.0.6244-819d3678c-aarch64.tpk
+
 # linux-x86_64.thecus
+
+https://downloads.plex.tv/plex-media-server-new/1.29.0.6244-819d3678c/thecus/PlexMediaServer-1.29.0.6244-819d3678c-x64.mod
 
 # linux-x86_64.seagate
 
+https://downloads.plex.tv/plex-media-server-new/1.29.0.6244-819d3678c/seagate/PlexMediaServer-1.29.0.6244-819d3678c-x86_64.rbw
+
 # linux-armv7hf.seagate
+
+https://downloads.plex.tv/plex-media-server-new/1.29.0.6244-819d3678c/seagate/PlexMediaServer-1.29.0.6244-819d3678c-armv7.rbw
 
 # linux-x86_64.wd-pr2100-os5
 
+https://downloads.plex.tv/plex-media-server-new/1.29.0.6244-819d3678c/wd/PlexMediaServer-1.29.0.6244-819d3678c-MyCloudPR2100.bin
+
+https://downloads.plex.tv/plex-media-server-new/1.29.0.6244-819d3678c/wd/PlexMediaServer-1.29.0.6244-819d3678c-MyCloudPR2100_OS5.bin
+
 # linux-x86_64.wd-pr4100-os5
+
+https://downloads.plex.tv/plex-media-server-new/1.29.0.6244-819d3678c/wd/PlexMediaServer-1.29.0.6244-819d3678c-MyCloudPR4100.bin
+
+https://downloads.plex.tv/plex-media-server-new/1.29.0.6244-819d3678c/wd/PlexMediaServer-1.29.0.6244-819d3678c-MyCloudPR4100_OS5.bin
 
 # linux-armv7hf.wd-ex2ultra-os5
 
+https://downloads.plex.tv/plex-media-server-new/1.29.0.6244-819d3678c/wd/PlexMediaServer-1.29.0.6244-819d3678c-MyCloudEX2Ultra.bin
+
+https://downloads.plex.tv/plex-media-server-new/1.29.0.6244-819d3678c/wd/PlexMediaServer-1.29.0.6244-819d3678c-WDMyCloudEX2.bin
+
+https://downloads.plex.tv/plex-media-server-new/1.29.0.6244-819d3678c/wd/PlexMediaServer-1.29.0.6244-819d3678c-MyCloudEX2Ultra_OS5.bin
+
 # linux-armv7hf.wd-ex4100-os5
+
+https://downloads.plex.tv/plex-media-server-new/1.29.0.6244-819d3678c/wd/PlexMediaServer-1.29.0.6244-819d3678c-WDMyCloudEX4100.bin
+
+https://downloads.plex.tv/plex-media-server-new/1.29.0.6244-819d3678c/wd/PlexMediaServer-1.29.0.6244-819d3678c-WDMyCloudEX4100_OS5.bin
 
 # linux-armv7hf.wd-mirror-os5
 
+https://downloads.plex.tv/plex-media-server-new/1.29.0.6244-819d3678c/wd/PlexMediaServer-1.29.0.6244-819d3678c-WDMyCloudMirror.bin
+
+https://downloads.plex.tv/plex-media-server-new/1.29.0.6244-819d3678c/wd/PlexMediaServer-1.29.0.6244-819d3678c-WDMyCloudMirror_OS5.bin
+
 # linux-armv7hf.wd-ex2100-os5
+
+https://downloads.plex.tv/plex-media-server-new/1.29.0.6244-819d3678c/wd/PlexMediaServer-1.29.0.6244-819d3678c-WDMyCloudEX2100.bin
+
+https://downloads.plex.tv/plex-media-server-new/1.29.0.6244-819d3678c/wd/PlexMediaServer-1.29.0.6244-819d3678c-WDMyCloudEX2.bin
+
+https://downloads.plex.tv/plex-media-server-new/1.29.0.6244-819d3678c/wd/PlexMediaServer-1.29.0.6244-819d3678c-WDMyCloudEX2100_OS5.bin
 
 # linux-x86_64.wd-dl2100-os5
 
+https://downloads.plex.tv/plex-media-server-new/1.29.0.6244-819d3678c/wd/PlexMediaServer-1.29.0.6244-819d3678c-WDMyCloudDL2100.bin
+
+https://downloads.plex.tv/plex-media-server-new/1.29.0.6244-819d3678c/wd/PlexMediaServer-1.29.0.6244-819d3678c-WDMyCloudDL2100_OS5.bin
+
 # linux-x86_64.wd-dl4100-os5
+
+https://downloads.plex.tv/plex-media-server-new/1.29.0.6244-819d3678c/wd/PlexMediaServer-1.29.0.6244-819d3678c-WDMyCloudDL4100.bin
+
+https://downloads.plex.tv/plex-media-server-new/1.29.0.6244-819d3678c/wd/PlexMediaServer-1.29.0.6244-819d3678c-WDMyCloudDL4100_OS5.bin
 
 # linux-armv7hf.wd-mycloud-os5
 
+https://downloads.plex.tv/plex-media-server-new/1.29.0.6244-819d3678c/wd/PlexMediaServer-1.29.0.6244-819d3678c-WDMyCloud_OS5.bin
+
 # linux-armv7hf.wd-cloud-os5
+
+https://downloads.plex.tv/plex-media-server-new/1.29.0.6244-819d3678c/wd/PlexMediaServer-1.29.0.6244-819d3678c-WDCloud_OS5.bin
 
 # linux-x86_64.wd-dl2100
 
+https://downloads.plex.tv/plex-media-server-new/1.29.0.6244-819d3678c/wd/PlexMediaServer-1.29.0.6244-819d3678c-WDMyCloudDL2100.bin
+
 # linux-x86_64.wd-dl4100
+
+https://downloads.plex.tv/plex-media-server-new/1.29.0.6244-819d3678c/wd/PlexMediaServer-1.29.0.6244-819d3678c-WDMyCloudDL4100.bin
 
 # linux-x86_64.wd-pr2100
 
+https://downloads.plex.tv/plex-media-server-new/1.29.0.6244-819d3678c/wd/PlexMediaServer-1.29.0.6244-819d3678c-MyCloudPR2100.bin
+
 # linux-x86_64.wd-pr4100
+
+https://downloads.plex.tv/plex-media-server-new/1.29.0.6244-819d3678c/wd/PlexMediaServer-1.29.0.6244-819d3678c-MyCloudPR4100.bin
 
 # linux-armv7hf.wd-ex2
 
+https://downloads.plex.tv/plex-media-server-new/1.29.0.6244-819d3678c/wd/PlexMediaServer-1.29.0.6244-819d3678c-WDMyCloudEX2.bin
+
 # linux-armv7hf.wd-ex2100
+
+https://downloads.plex.tv/plex-media-server-new/1.29.0.6244-819d3678c/wd/PlexMediaServer-1.29.0.6244-819d3678c-WDMyCloudEX2100.bin
+
+https://downloads.plex.tv/plex-media-server-new/1.29.0.6244-819d3678c/wd/PlexMediaServer-1.29.0.6244-819d3678c-WDMyCloudEX2.bin
 
 # linux-armv7hf.wd-ex2ultra
 
+https://downloads.plex.tv/plex-media-server-new/1.29.0.6244-819d3678c/wd/PlexMediaServer-1.29.0.6244-819d3678c-MyCloudEX2Ultra.bin
+
+https://downloads.plex.tv/plex-media-server-new/1.29.0.6244-819d3678c/wd/PlexMediaServer-1.29.0.6244-819d3678c-WDMyCloudEX2.bin
+
 # linux-armv7hf.wd-ex4100
+
+https://downloads.plex.tv/plex-media-server-new/1.29.0.6244-819d3678c/wd/PlexMediaServer-1.29.0.6244-819d3678c-WDMyCloudEX4100.bin
 
 # linux-armv7hf.wd-mirror
 
+https://downloads.plex.tv/plex-media-server-new/1.29.0.6244-819d3678c/wd/PlexMediaServer-1.29.0.6244-819d3678c-WDMyCloudMirror.bin
+
 # linux-armv7hf.wd-mirrorgen2
+
+https://downloads.plex.tv/plex-media-server-new/1.29.0.6244-819d3678c/wd/PlexMediaServer-1.29.0.6244-819d3678c-WDMyCloudMirrorGen2.bin
+
+https://downloads.plex.tv/plex-media-server-new/1.29.0.6244-819d3678c/wd/PlexMediaServer-1.29.0.6244-819d3678c-WDMyCloudMirror.bin
 
 
