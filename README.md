@@ -4,23 +4,23 @@ plex.tv does not provide URLs for old installers. This repository serves as an a
 
 Click on a link below to view the archive of URLs for the selected system.
 
-[linux-x86_64.debian versions](archives/linux-x86_64.debian.md)
+[linux-x86_64.debian](archives/linux-x86_64.debian.md)
 
-[linux-x86.debian versions](archives/linux-x86.debian.md)
+[linux-x86.debian](archives/linux-x86.debian.md)
 
-[linux-aarch64.debian versions](archives/linux-aarch64.debian.md)
+[linux-aarch64.debian](archives/linux-aarch64.debian.md)
 
-[linux-armv7neon.debian versions](archives/linux-armv7neon.debian.md)
+[linux-armv7neon.debian](archives/linux-armv7neon.debian.md)
 
-[linux-x86.redhat versions](archives/linux-x86.redhat.md)
+[linux-x86.redhat](archives/linux-x86.redhat.md)
 
-[linux-x86_64.redhat versions](archives/linux-x86_64.redhat.md)
+[linux-x86_64.redhat](archives/linux-x86_64.redhat.md)
 
-[windows-x86.windows versions](archives/windows-x86.windows.md)
+[windows-x86.windows](archives/windows-x86.windows.md)
 
-[darwin-x86_64.macos versions](archives/darwin-x86_64.macos.md)
+[darwin-x86_64.macos](archives/darwin-x86_64.macos.md)
 
-[freebsd-x86_64.freebsd versions](archives/freebsd-x86_64.freebsd.md)
+[freebsd-x86_64.freebsd](archives/freebsd-x86_64.freebsd.md)
 
 [linux-x86_64.qnap](archives/linux-x86_64.qnap.md)
 
