@@ -96,8 +96,9 @@ echo "Version $VERSION"
 addUrl()
 {
   local FILENAME=$2
+  local TITLE=$3
   if [ ! -f "$FILENAME" ]; then
-    echo "# $FILENAME" > "$FILENAME"
+    echo "# $TITLE" > "$FILENAME"
   fi
 
   if [ ! -z "$1" ]; then
@@ -125,7 +126,7 @@ do
   echo "Search $build for $distrib"
   URL=$(cat "$JSONTMP"|jq --arg BUILD "$build" --arg DISTRO "$distrib"  -r '.computer[]|.releases[]|select(.build==$BUILD and .distro==$DISTRO)|.url')
 
-  addUrl "$URL" "archives/$a.md"
+  addUrl "$URL" "archives/$a.md" "$a"
 done
 
 # reset IFS for loop
@@ -139,9 +140,6 @@ do
   echo "Search $build for $distrib"
   URL=$(cat "$JSONTMP"|jq --arg BUILD "$build" --arg DISTRO "$distrib"  -r '.nas[]|.releases[]|select(.build==$BUILD and .distro==$DISTRO)|.url')
 
-  addUrl "$URL" "archives/$a.md"
-
-  #addUrl "$URL" README.md
-
+  addUrl "$URL" "archives/$a.md" "$a"
 done
 
