@@ -93,26 +93,20 @@ echo "Version $VERSION"
 
 #echo "[1;33mAdding $VERSION[0m"
 
-old_ifs="$IFS"
-
-for a in ${LST[@]}
-do
-IFS="."
-read build distrib <<< "$a"
-
-echo "Search $build for $distrib"
-URL=$(cat "$JSONTMP"|jq --arg BUILD "$build" --arg DISTRO "$distrib"  -r '.computer[]|.releases[]|select(.build==$BUILD and .distro==$DISTRO)|.url')
-
 addUrl()
 {
-  if [ ! -z "$1" ]
-  then
-    `grep "$1" README.md >/dev/null`
+  local FILENAME=$2
+  local TITLE=$3
+  if [ ! -f "$FILENAME" ]; then
+    echo "# $TITLE" > "$FILENAME"
+  fi
+
+  if [ ! -z "$1" ]; then
+    `grep "$1" "$FILENAME" >/dev/null`
     local URL_NOT_EXISTS=$?
 #    echo $URL_NOT_EXISTS
 
-    if [ $URL_NOT_EXISTS == 1 ] 
-    then
+    if [ $URL_NOT_EXISTS == 1 ]; then
       echo "[1;33m +Adding URL[0m"
       sed -i "/# $a/a \\\n$1" "$2"
     else
@@ -121,8 +115,18 @@ addUrl()
   fi
 }
 
-addUrl "$URL" README.md
 
+old_ifs="$IFS"
+
+for a in ${LST[@]}
+do
+  IFS="."
+  read build distrib <<< "$a"
+
+  echo "Search $build for $distrib"
+  URL=$(cat "$JSONTMP"|jq --arg BUILD "$build" --arg DISTRO "$distrib"  -r '.computer[]|.releases[]|select(.build==$BUILD and .distro==$DISTRO)|.url')
+
+  addUrl "$URL" "archives/$a.md" "$a"
 done
 
 # reset IFS for loop
@@ -130,13 +134,12 @@ IFS="$old_ifs"
 
 for a in ${NAS[@]}
 do
-IFS="."
-read build distrib <<< "$a"
+  IFS="."
+  read build distrib <<< "$a"
 
-echo "Search $build for $distrib"
-URL=$(cat "$JSONTMP"|jq --arg BUILD "$build" --arg DISTRO "$distrib"  -r '.nas[]|.releases[]|select(.build==$BUILD and .distro==$DISTRO)|.url')
+  echo "Search $build for $distrib"
+  URL=$(cat "$JSONTMP"|jq --arg BUILD "$build" --arg DISTRO "$distrib"  -r '.nas[]|.releases[]|select(.build==$BUILD and .distro==$DISTRO)|.url')
 
-addUrl "$URL" README.md
-
+  addUrl "$URL" "archives/$a.md" "$a"
 done
 
