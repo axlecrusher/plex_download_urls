@@ -2,7 +2,7 @@
 
 plex.tv does not provide URLs for old installers. This repository serves as an archive of download URLs.
 
-Click on a link below to view the old URLs for the selected system.
+Click on a link below to view the archive of URLs for the selected system.
 
 [linux-x86_64.debian versions](archives/linux-x86_64.debian.md)
 
