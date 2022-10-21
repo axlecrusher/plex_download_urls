@@ -1,5 +1,7 @@
 # linux-armv7neon.qnap.md
 
+https://downloads.plex.tv/plex-media-server-new/1.29.1.6316-f4cdfea9c/qnap/PlexMediaServer-1.29.1.6316-f4cdfea9c-armv7neon.qpkg
+
 https://downloads.plex.tv/plex-media-server-new/1.29.0.6244-819d3678c/qnap/PlexMediaServer-1.29.0.6244-819d3678c-armv7neon.qpkg
 
 https://downloads.plex.tv/plex-media-server-new/1.28.0.5999-97678ded3/qnap/PlexMediaServer-1.28.0.5999-97678ded3-armv7neon.qpkg

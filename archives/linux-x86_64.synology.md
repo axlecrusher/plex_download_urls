@@ -1,5 +1,7 @@
 # linux-x86_64.synology.md
 
+https://downloads.plex.tv/plex-media-server-new/1.29.1.6316-f4cdfea9c/synology/PlexMediaServer-1.29.1.6316-f4cdfea9c-x86_64_DSM6.spk
+
 https://downloads.plex.tv/plex-media-server-new/1.29.0.6244-819d3678c/synology/PlexMediaServer-1.29.0.6244-819d3678c-x86_64_DSM6.spk
 
 https://downloads.plex.tv/plex-media-server-new/1.28.0.5999-97678ded3/synology/PlexMediaServer-1.28.0.5999-97678ded3-x86_64_DSM6.spk
