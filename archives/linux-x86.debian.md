@@ -1,5 +1,7 @@
 # linux-x86.debian
 
+https://downloads.plex.tv/plex-media-server-new/1.30.0.6486-629d58034/debian/plexmediaserver_1.30.0.6486-629d58034_i386.deb
+
 https://downloads.plex.tv/plex-media-server-new/1.29.2.6364-6d72b0cf6/debian/plexmediaserver_1.29.2.6364-6d72b0cf6_i386.deb
 
 https://downloads.plex.tv/plex-media-server-new/1.29.1.6316-f4cdfea9c/debian/plexmediaserver_1.29.1.6316-f4cdfea9c_i386.deb
