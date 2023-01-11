@@ -1,5 +1,7 @@
 # linux-aarch64.terramaster.md
 
+https://downloads.plex.tv/plex-media-server-new/1.30.1.6562-915986d62/terramaster/PlexMediaServer-1.30.1.6562-915986d62-aarch64.tpk
+
 https://downloads.plex.tv/plex-media-server-new/1.30.0.6486-629d58034/terramaster/PlexMediaServer-1.30.0.6486-629d58034-aarch64.tpk
 
 https://downloads.plex.tv/plex-media-server-new/1.29.2.6364-6d72b0cf6/terramaster/PlexMediaServer-1.29.2.6364-6d72b0cf6-aarch64.tpk
