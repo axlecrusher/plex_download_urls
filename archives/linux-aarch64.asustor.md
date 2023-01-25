@@ -1,5 +1,7 @@
 # linux-aarch64.asustor.md
 
+https://downloads.plex.tv/plex-media-server-new/1.30.2.6563-3d4dc0cce/asustor/PlexMediaServer-1.30.2.6563-3d4dc0cce-aarch64.apk
+
 https://downloads.plex.tv/plex-media-server-new/1.30.1.6562-915986d62/asustor/PlexMediaServer-1.30.1.6562-915986d62-aarch64.apk
 
 https://downloads.plex.tv/plex-media-server-new/1.30.0.6486-629d58034/asustor/PlexMediaServer-1.30.0.6486-629d58034-aarch64.apk
