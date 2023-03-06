@@ -18,6 +18,8 @@ Click on a link below to view the archive of URLs for the selected system.
 
 [windows-x86.windows](archives/windows-x86.windows.md)
 
+[windows-x86_64.windows](archives/windows-x86_64.windows.md)
+
 [darwin-x86_64.macos](archives/darwin-x86_64.macos.md)
 
 [freebsd-x86_64.freebsd](archives/freebsd-x86_64.freebsd.md)

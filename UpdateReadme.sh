@@ -10,6 +10,7 @@ LST=(
 	linux-x86.redhat
 	linux-x86_64.redhat
 	windows-x86.windows
+	windows-x86_64.windows
 	darwin-x86_64.macos
 	freebsd-x86_64.freebsd )
 
