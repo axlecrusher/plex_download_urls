@@ -2,6 +2,8 @@
 
 https://downloads.plex.tv/plex-media-server-new/1.31.1.6733-bc0674160/thecus/PlexMediaServer-1.31.1.6733-bc0674160-x64.mod
 
+https://downloads.plex.tv/plex-media-server-new/1.31.0.6654-02189b09f/thecus/PlexMediaServer-1.31.0.6654-02189b09f-x64.mod
+
 https://downloads.plex.tv/plex-media-server-new/1.30.2.6563-3d4dc0cce/thecus/PlexMediaServer-1.30.2.6563-3d4dc0cce-x64.mod
 
 https://downloads.plex.tv/plex-media-server-new/1.30.1.6562-915986d62/thecus/PlexMediaServer-1.30.1.6562-915986d62-x64.mod
