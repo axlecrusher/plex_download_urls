@@ -1,5 +1,7 @@
 # linux-x86.redhat
 
+https://downloads.plex.tv/plex-media-server-new/1.31.1.6782-77dfff442/redhat/plexmediaserver-1.31.1.6782-77dfff442.i686.rpm
+
 https://downloads.plex.tv/plex-media-server-new/1.31.1.6733-bc0674160/redhat/plexmediaserver-1.31.1.6733-bc0674160.i686.rpm
 
 https://downloads.plex.tv/plex-media-server-new/1.31.0.6654-02189b09f/redhat/plexmediaserver-1.31.0.6654-02189b09f.i686.rpm
