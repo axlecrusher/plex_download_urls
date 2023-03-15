@@ -1,5 +1,7 @@
 # linux-x86_64.terramaster.md
 
+https://downloads.plex.tv/plex-media-server-new/1.31.2.6810-a607d384f/terramaster/PlexMediaServer-1.31.2.6810-a607d384f-x86_64.tpk
+
 https://downloads.plex.tv/plex-media-server-new/1.31.1.6782-77dfff442/terramaster/PlexMediaServer-1.31.1.6782-77dfff442-x86_64.tpk
 
 https://downloads.plex.tv/plex-media-server-new/1.31.1.6733-bc0674160/terramaster/PlexMediaServer-1.31.1.6733-bc0674160-x86_64.tpk
