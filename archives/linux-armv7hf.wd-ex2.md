@@ -1,5 +1,7 @@
 # linux-armv7hf.wd-ex2.md
 
+https://downloads.plex.tv/plex-media-server-new/1.31.3.6868-28fc46b27/wd/PlexMediaServer-1.31.3.6868-28fc46b27-WDMyCloudEX2.bin
+
 https://downloads.plex.tv/plex-media-server-new/1.31.2.6810-a607d384f/wd/PlexMediaServer-1.31.2.6810-a607d384f-WDMyCloudEX2.bin
 
 https://downloads.plex.tv/plex-media-server-new/1.31.1.6782-77dfff442/wd/PlexMediaServer-1.31.1.6782-77dfff442-WDMyCloudEX2.bin
