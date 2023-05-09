@@ -1,5 +1,7 @@
 # linux-armv7hf.wd-ex2100-os5.md
 
+https://downloads.plex.tv/plex-media-server-new/1.32.1.6999-91e1e2e2c/wd/PlexMediaServer-1.32.1.6999-91e1e2e2c-WDMyCloudEX2100_OS5.bin
+
 https://downloads.plex.tv/plex-media-server-new/1.32.0.6973-a787c5a8e/wd/PlexMediaServer-1.32.0.6973-a787c5a8e-WDMyCloudEX2100_OS5.bin
 
 https://downloads.plex.tv/plex-media-server-new/1.32.0.6950-8521b7d99/wd/PlexMediaServer-1.32.0.6950-8521b7d99-WDMyCloudEX2100_OS5.bin
