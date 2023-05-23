@@ -1,5 +1,7 @@
 # linux-x86_64.seagate.md
 
+https://downloads.plex.tv/plex-media-server-new/1.32.2.7100-248a2daf0/seagate/PlexMediaServer-1.32.2.7100-248a2daf0-x86_64.rbw
+
 https://downloads.plex.tv/plex-media-server-new/1.32.1.6999-91e1e2e2c/seagate/PlexMediaServer-1.32.1.6999-91e1e2e2c-x86_64.rbw
 
 https://downloads.plex.tv/plex-media-server-new/1.32.0.6973-a787c5a8e/seagate/PlexMediaServer-1.32.0.6973-a787c5a8e-x86_64.rbw
