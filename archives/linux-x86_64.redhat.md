@@ -2,6 +2,8 @@
 
 # linux-x86_64.redhat
 
+https://downloads.plex.tv/plex-media-server-new/1.32.3.7162-b0a36929b/redhat/plexmediaserver-1.32.3.7162-b0a36929b.x86_64.rpm
+
 https://downloads.plex.tv/plex-media-server-new/1.32.2.7100-248a2daf0/redhat/plexmediaserver-1.32.2.7100-248a2daf0.x86_64.rpm
 
 https://downloads.plex.tv/plex-media-server-new/1.32.1.6999-91e1e2e2c/redhat/plexmediaserver-1.32.1.6999-91e1e2e2c.x86_64.rpm
