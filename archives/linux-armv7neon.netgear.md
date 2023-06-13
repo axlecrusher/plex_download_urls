@@ -1,5 +1,7 @@
 # linux-armv7neon.netgear.md
 
+https://downloads.plex.tv/plex-media-server-new/1.32.3.7192-7aa441827/netgear/plexmediaserver-annapurna_1.32.3.7192-7aa441827_armel.deb
+
 https://downloads.plex.tv/plex-media-server-new/1.32.3.7162-b0a36929b/netgear/plexmediaserver-annapurna_1.32.3.7162-b0a36929b_armel.deb
 
 https://downloads.plex.tv/plex-media-server-new/1.32.2.7100-248a2daf0/netgear/plexmediaserver-annapurna_1.32.2.7100-248a2daf0_armel.deb

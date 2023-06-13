@@ -1,5 +1,7 @@
 # linux-x86_64.wd-pr2100.md
 
+https://downloads.plex.tv/plex-media-server-new/1.32.3.7192-7aa441827/wd/PlexMediaServer-1.32.3.7192-7aa441827-MyCloudPR2100.bin
+
 https://downloads.plex.tv/plex-media-server-new/1.32.3.7162-b0a36929b/wd/PlexMediaServer-1.32.3.7162-b0a36929b-MyCloudPR2100.bin
 
 https://downloads.plex.tv/plex-media-server-new/1.32.2.7100-248a2daf0/wd/PlexMediaServer-1.32.2.7100-248a2daf0-MyCloudPR2100.bin
