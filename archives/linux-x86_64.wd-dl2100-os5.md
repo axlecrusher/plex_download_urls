@@ -1,5 +1,7 @@
 # linux-x86_64.wd-dl2100-os5.md
 
+https://downloads.plex.tv/plex-media-server-new/1.32.4.7195-7c8f9d3b6/wd/PlexMediaServer-1.32.4.7195-7c8f9d3b6-WDMyCloudDL2100_OS5.bin
+
 https://downloads.plex.tv/plex-media-server-new/1.32.3.7192-7aa441827/wd/PlexMediaServer-1.32.3.7192-7aa441827-WDMyCloudDL2100_OS5.bin
 
 https://downloads.plex.tv/plex-media-server-new/1.32.3.7162-b0a36929b/wd/PlexMediaServer-1.32.3.7162-b0a36929b-WDMyCloudDL2100_OS5.bin
