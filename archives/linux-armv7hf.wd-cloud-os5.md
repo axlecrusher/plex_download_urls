@@ -1,5 +1,7 @@
 # linux-armv7hf.wd-cloud-os5.md
 
+https://downloads.plex.tv/plex-media-server-new/1.32.6.7468-07e0d4a7e/wd/PlexMediaServer-1.32.6.7468-07e0d4a7e-WDCloud_OS5.bin
+
 https://downloads.plex.tv/plex-media-server-new/1.32.5.7349-8f4248874/wd/PlexMediaServer-1.32.5.7349-8f4248874-WDCloud_OS5.bin
 
 https://downloads.plex.tv/plex-media-server-new/1.32.5.7328-2632c9d3a/wd/PlexMediaServer-1.32.5.7328-2632c9d3a-WDCloud_OS5.bin
