@@ -1,5 +1,7 @@
 # linux-armv7hf.seagate.md
 
+https://downloads.plex.tv/plex-media-server-new/1.32.7.7621-871adbd44/seagate/PlexMediaServer-1.32.7.7621-871adbd44-armv7.rbw
+
 https://downloads.plex.tv/plex-media-server-new/1.32.6.7557-1cf77d501/seagate/PlexMediaServer-1.32.6.7557-1cf77d501-armv7.rbw
 
 https://downloads.plex.tv/plex-media-server-new/1.32.5.7516-8f4248874/seagate/PlexMediaServer-1.32.5.7516-8f4248874-armv7.rbw
