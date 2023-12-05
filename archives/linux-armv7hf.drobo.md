@@ -1,5 +1,7 @@
 # linux-armv7hf.drobo.md
 
+https://downloads.plex.tv/plex-media-server-new/1.32.8.7639-fb6452ebf/drobo/plex.tgz
+
 https://downloads.plex.tv/plex-media-server-new/1.32.7.7621-871adbd44/drobo/plex.tgz
 
 https://downloads.plex.tv/plex-media-server-new/1.32.6.7557-1cf77d501/drobo/plex.tgz

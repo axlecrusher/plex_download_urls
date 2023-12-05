@@ -1,5 +1,7 @@
 # linux-aarch64.qnap.md
 
+https://downloads.plex.tv/plex-media-server-new/1.32.8.7639-fb6452ebf/qnap/PlexMediaServer-1.32.8.7639-fb6452ebf-aarch64.qpkg
+
 https://downloads.plex.tv/plex-media-server-new/1.32.7.7621-871adbd44/qnap/PlexMediaServer-1.32.7.7621-871adbd44-aarch64.qpkg
 
 https://downloads.plex.tv/plex-media-server-new/1.32.6.7557-1cf77d501/qnap/PlexMediaServer-1.32.6.7557-1cf77d501-aarch64.qpkg
