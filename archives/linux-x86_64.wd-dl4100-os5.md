@@ -1,5 +1,7 @@
 # linux-x86_64.wd-dl4100-os5.md
 
+https://downloads.plex.tv/plex-media-server-new/1.40.2.8395-c67dce28e/wd/PlexMediaServer-1.40.2.8395-c67dce28e-WDMyCloudDL4100_OS5.bin
+
 https://downloads.plex.tv/plex-media-server-new/1.40.1.8227-c0dd5a73e/wd/PlexMediaServer-1.40.1.8227-c0dd5a73e-WDMyCloudDL4100_OS5.bin
 
 https://downloads.plex.tv/plex-media-server-new/1.40.0.7998-c29d4c0c8/wd/PlexMediaServer-1.40.0.7998-c29d4c0c8-WDMyCloudDL4100_OS5.bin
