@@ -1,5 +1,7 @@
 # linux-armv7hf.netgear.md
 
+https://downloads.plex.tv/plex-media-server-new/1.41.0.8994-f2c27da23/netgear/plexmediaserver_1.41.0.8994-f2c27da23_armel.deb
+
 https://downloads.plex.tv/plex-media-server-new/1.41.0.8992-8463ad060/netgear/plexmediaserver_1.41.0.8992-8463ad060_armel.deb
 
 https://downloads.plex.tv/plex-media-server-new/1.40.5.8921-836b34c27/netgear/plexmediaserver_1.40.5.8921-836b34c27_armel.deb

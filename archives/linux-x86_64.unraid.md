@@ -1,5 +1,7 @@
 # linux-x86_64.unraid.md
 
+https://downloads.plex.tv/plex-media-server-new/1.41.0.8994-f2c27da23/unraid/PlexMediaServer-1.41.0.8994-f2c27da23-x86_64.txz
+
 https://downloads.plex.tv/plex-media-server-new/1.41.0.8992-8463ad060/unraid/PlexMediaServer-1.41.0.8992-8463ad060-x86_64.txz
 
 https://downloads.plex.tv/plex-media-server-new/1.40.5.8921-836b34c27/unraid/PlexMediaServer-1.40.5.8921-836b34c27-x86_64.txz
