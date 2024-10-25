@@ -1,5 +1,7 @@
 # linux-armv7hf.qnap.md
 
+https://downloads.plex.tv/plex-media-server-new/1.41.1.9057-af5eaea7a/qnap/PlexMediaServer-1.41.1.9057-af5eaea7a-armv7hf.qpkg
+
 https://downloads.plex.tv/plex-media-server-new/1.41.0.8994-f2c27da23/qnap/PlexMediaServer-1.41.0.8994-f2c27da23-armv7hf.qpkg
 
 https://downloads.plex.tv/plex-media-server-new/1.41.0.8992-8463ad060/qnap/PlexMediaServer-1.41.0.8992-8463ad060-armv7hf.qpkg
