@@ -1,5 +1,7 @@
 # linux-x86_64.wd-pr4100.md
 
+https://downloads.plex.tv/plex-media-server-new/1.41.2.9200-c6bbc1b53/wd/PlexMediaServer-1.41.2.9200-c6bbc1b53-MyCloudPR4100.bin
+
 https://downloads.plex.tv/plex-media-server-new/1.41.1.9057-af5eaea7a/wd/PlexMediaServer-1.41.1.9057-af5eaea7a-MyCloudPR4100.bin
 
 https://downloads.plex.tv/plex-media-server-new/1.41.0.8994-f2c27da23/wd/PlexMediaServer-1.41.0.8994-f2c27da23-MyCloudPR4100.bin
