@@ -1,6 +1,8 @@
 
 # darwin-x86_64.macos
 
+https://downloads.plex.tv/plex-media-server-new/1.41.3.9314-a0bfb8370/macos/PlexMediaServer-1.41.3.9314-a0bfb8370-universal.zip
+
 https://downloads.plex.tv/plex-media-server-new/1.41.3.9292-bc7397402/macos/PlexMediaServer-1.41.3.9292-bc7397402-universal.zip
 
 https://downloads.plex.tv/plex-media-server-new/1.41.2.9200-c6bbc1b53/macos/PlexMediaServer-1.41.2.9200-c6bbc1b53-universal.zip

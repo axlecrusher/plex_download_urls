@@ -1,5 +1,7 @@
 # linux-aarch64.debian
 
+https://downloads.plex.tv/plex-media-server-new/1.41.3.9314-a0bfb8370/debian/plexmediaserver_1.41.3.9314-a0bfb8370_arm64.deb
+
 https://downloads.plex.tv/plex-media-server-new/1.41.3.9292-bc7397402/debian/plexmediaserver_1.41.3.9292-bc7397402_arm64.deb
 
 https://downloads.plex.tv/plex-media-server-new/1.41.2.9200-c6bbc1b53/debian/plexmediaserver_1.41.2.9200-c6bbc1b53_arm64.deb

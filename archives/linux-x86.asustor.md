@@ -1,5 +1,7 @@
 # linux-x86.asustor.md
 
+https://downloads.plex.tv/plex-media-server-new/1.41.3.9314-a0bfb8370/asustor/PlexMediaServer-1.41.3.9314-a0bfb8370-x86.apk
+
 https://downloads.plex.tv/plex-media-server-new/1.41.3.9292-bc7397402/asustor/PlexMediaServer-1.41.3.9292-bc7397402-x86.apk
 
 https://downloads.plex.tv/plex-media-server-new/1.41.2.9200-c6bbc1b53/asustor/PlexMediaServer-1.41.2.9200-c6bbc1b53-x86.apk
