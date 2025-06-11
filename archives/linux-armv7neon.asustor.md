@@ -1,5 +1,7 @@
 # linux-armv7neon.asustor.md
 
+https://downloads.plex.tv/plex-media-server-new/1.41.8.9834-071366d65/asustor/PlexMediaServer-1.41.8.9834-071366d65-armv7neon.apk
+
 https://downloads.plex.tv/plex-media-server-new/1.41.7.9823-59f304c16/asustor/PlexMediaServer-1.41.7.9823-59f304c16-armv7neon.apk
 
 https://downloads.plex.tv/plex-media-server-new/1.41.7.9799-5bce000f7/asustor/PlexMediaServer-1.41.7.9799-5bce000f7-armv7neon.apk
