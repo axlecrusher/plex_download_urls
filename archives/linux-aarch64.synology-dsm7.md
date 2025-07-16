@@ -1,5 +1,7 @@
 # linux-aarch64.synology-dsm7.md
 
+https://downloads.plex.tv/plex-media-server-new/1.41.9.9961-46083195d/synology-dsm7/PlexMediaServer-1.41.9.9961-46083195d-aarch64_DSM7.spk
+
 https://downloads.plex.tv/plex-media-server-new/1.41.8.9834-071366d65/synology-dsm7/PlexMediaServer-1.41.8.9834-071366d65-aarch64_DSM7.spk
 
 https://downloads.plex.tv/plex-media-server-new/1.41.7.9823-59f304c16/synology-dsm7/PlexMediaServer-1.41.7.9823-59f304c16-aarch64_DSM7.spk

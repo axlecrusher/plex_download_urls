@@ -1,5 +1,7 @@
 # linux-x86_64.debian
 
+https://downloads.plex.tv/plex-media-server-new/1.41.9.9961-46083195d/debian/plexmediaserver_1.41.9.9961-46083195d_amd64.deb
+
 https://downloads.plex.tv/plex-media-server-new/1.41.8.9834-071366d65/debian/plexmediaserver_1.41.8.9834-071366d65_amd64.deb
 
 https://downloads.plex.tv/plex-media-server-new/1.41.7.9823-59f304c16/debian/plexmediaserver_1.41.7.9823-59f304c16_amd64.deb
