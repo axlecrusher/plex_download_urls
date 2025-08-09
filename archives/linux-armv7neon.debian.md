@@ -1,5 +1,7 @@
 # linux-armv7neon.debian
 
+https://downloads.plex.tv/plex-media-server-new/1.42.1.10054-f333bdaa8/debian/plexmediaserver_1.42.1.10054-f333bdaa8_armhf.deb
+
 https://downloads.plex.tv/plex-media-server-new/1.41.9.9961-46083195d/debian/plexmediaserver_1.41.9.9961-46083195d_armhf.deb
 
 https://downloads.plex.tv/plex-media-server-new/1.41.8.9834-071366d65/debian/plexmediaserver_1.41.8.9834-071366d65_armhf.deb
