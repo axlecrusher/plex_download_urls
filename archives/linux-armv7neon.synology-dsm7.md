@@ -1,5 +1,7 @@
 # linux-armv7neon.synology-dsm7.md
 
+https://downloads.plex.tv/plex-media-server-new/1.43.1.10576-06378bdcd/synology-dsm7/PlexMediaServer-1.43.1.10576-06378bdcd-armv7neon_DSM7.spk
+
 https://downloads.plex.tv/plex-media-server-new/1.43.0.10492-121068a07/synology-dsm7/PlexMediaServer-1.43.0.10492-121068a07-armv7neon_DSM7.spk
 
 https://downloads.plex.tv/plex-media-server-new/1.43.0.10467-2b1ba6e69/synology-dsm7/PlexMediaServer-1.43.0.10467-2b1ba6e69-armv7neon_DSM7.spk

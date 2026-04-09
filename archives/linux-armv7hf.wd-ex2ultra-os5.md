@@ -1,5 +1,7 @@
 # linux-armv7hf.wd-ex2ultra-os5.md
 
+https://downloads.plex.tv/plex-media-server-new/1.43.1.10576-06378bdcd/wd/PlexMediaServer-1.43.1.10576-06378bdcd-MyCloudEX2Ultra_OS5.bin
+
 https://downloads.plex.tv/plex-media-server-new/1.43.0.10492-121068a07/wd/PlexMediaServer-1.43.0.10492-121068a07-MyCloudEX2Ultra_OS5.bin
 
 https://downloads.plex.tv/plex-media-server-new/1.43.0.10467-2b1ba6e69/wd/PlexMediaServer-1.43.0.10467-2b1ba6e69-MyCloudEX2Ultra_OS5.bin

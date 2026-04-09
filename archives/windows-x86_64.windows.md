@@ -1,5 +1,7 @@
 # windows-x86_64.windows
 
+https://downloads.plex.tv/plex-media-server-new/1.43.1.10576-06378bdcd/windows/PlexMediaServer-1.43.1.10576-06378bdcd-x86_64.exe
+
 https://downloads.plex.tv/plex-media-server-new/1.43.0.10492-121068a07/windows/PlexMediaServer-1.43.0.10492-121068a07-x86_64.exe
 
 https://downloads.plex.tv/plex-media-server-new/1.43.0.10467-2b1ba6e69/windows/PlexMediaServer-1.43.0.10467-2b1ba6e69-x86_64.exe
