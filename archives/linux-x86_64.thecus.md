@@ -1,5 +1,7 @@
 # linux-x86_64.thecus.md
 
+https://downloads.plex.tv/plex-media-server-new/1.43.1.10611-1e34174b1/thecus/PlexMediaServer-1.43.1.10611-1e34174b1-x64.mod
+
 https://downloads.plex.tv/plex-media-server-new/1.43.1.10576-06378bdcd/thecus/PlexMediaServer-1.43.1.10576-06378bdcd-x64.mod
 
 https://downloads.plex.tv/plex-media-server-new/1.43.0.10492-121068a07/thecus/PlexMediaServer-1.43.0.10492-121068a07-x64.mod
