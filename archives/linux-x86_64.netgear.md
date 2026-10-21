@@ -1,5 +1,7 @@
 # linux-x86_64.netgear.md
 
+https://downloads.plex.tv/plex-media-server-new/1.43.5.11029-6bf8af3f0/netgear/plexmediaserver_1.43.5.11029-6bf8af3f0_amd64.deb
+
 https://downloads.plex.tv/plex-media-server-new/1.43.4.10903-e5521bd8c/netgear/plexmediaserver_1.43.4.10903-e5521bd8c_amd64.deb
 
 https://downloads.plex.tv/plex-media-server-new/1.43.3.10896-cb3ebc72d/netgear/plexmediaserver_1.43.3.10896-cb3ebc72d_amd64.deb
